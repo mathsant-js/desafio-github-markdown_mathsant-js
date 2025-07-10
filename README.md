@@ -8,6 +8,6 @@
 - [x] Criar uma tag
 - [x] Criar um release do repositório
 - [x] Criar uma wiki
-- [x] Melhorar o README do perfil - Link do meu perfil [Meu perfil](https://github.com/mathsant-js)
+- [x] Melhorar o README do perfil - [Link do meu perfil](https://github.com/mathsant-js)
 
 > Commit teste de um colaborador
