@@ -4,7 +4,7 @@
 - [x] Primeiro commit
 - [x] Criar uma nova branch (minha_versao_1.0)
 - [x] Fazer um pull request e merge
-- [ ] Resolver uma issue
+- [x] Resolver uma issue
 - [ ] Criar uma tag
 - [ ] Criar um release do repositório
 - [ ] Criar uma wiki
