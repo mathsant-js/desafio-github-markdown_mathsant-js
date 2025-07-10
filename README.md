@@ -7,7 +7,7 @@
 - [x] Resolver uma issue
 - [x] Criar uma tag
 - [x] Criar um release do repositório
-- [ ] Criar uma wiki
+- [x] Criar uma wiki
 - [ ] Melhorar o README do perfil
 
 > Commit teste de um colaborador
