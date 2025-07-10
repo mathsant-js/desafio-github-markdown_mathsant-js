@@ -3,7 +3,7 @@
 - [x] Criar uma conta no GitHub
 - [x] Primeiro commit
 - [x] Criar uma nova branch (minha_versao_1.0)
-- [ ] Fazer um pull request e merge
+- [x] Fazer um pull request e merge
 - [ ] Resolver uma issue
 - [ ] Criar um release do repositório
 - [ ] Criar uma wiki
