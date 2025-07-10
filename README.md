@@ -9,3 +9,5 @@
 - [ ] Criar um release do repositório
 - [ ] Criar uma wiki
 - [ ] Melhorar o README do perfil
+
+> Commit teste de um colaborador
